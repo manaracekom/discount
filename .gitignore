@@ -1,0 +1,8 @@
+#------------------------#
+# IntelliJ IDEA specific #
+#------------------------#
+*.iml
+.idea/
+/target/
+/settings.xml
+/bin/
